@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit100010
 - 👀 I’m interested in web dovelopment
-- 🌱 I’m currently learning in javascript
+- 🌱 I’m currently learning in Data Science
 - 💞️ I’m looking to collaborate on nicepage like website
 - 📫 How to reach me....
 
