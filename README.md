@@ -2,7 +2,6 @@
 - 👀 I’m interested in web dovelopment
 - 🌱 I’m currently learning in Data Science
 - 💞️ I’m looking to collaborate on nicepage like website
-- 📫 How to reach me....
 
 <!---
 Ankit100010/Ankit100010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
